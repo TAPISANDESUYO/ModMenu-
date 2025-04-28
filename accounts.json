@@ -1,8 +1,16 @@
 {
     "users": [
         {
+            "email": "a",
+            "password": "a"
+        },
+        {
             "email": "Adfnekcsde",
             "password": "Adfnekcsde"
+        },
+        {
+            "email": "tapisandesu",
+            "password": "$2b$12$OJ9QS3RYJCMpF0w1g7bhWewriMjUvghXaknMYL6X6ReR7xjicsHwm"
         }
     ]
 }
