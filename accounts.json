@@ -3,6 +3,10 @@
         {
             "email": "tapi",
             "password": "$2b$12$zcLvqsAc6CznWMHjL4w0XOU0lsFcPnDxsrLGkNoJAbbpaDV8WRQhu"
+        },
+        {
+            "email": "tapimods",
+            "password": "a"
         }
     ]
 }
