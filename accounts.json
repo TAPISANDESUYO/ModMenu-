@@ -3,6 +3,10 @@
         {
             "email": "a",
             "password": "a"
+        },
+        {
+            "email": "tapi@tapi.com",
+            "password": "$2b$12$67iBeSU2eqn7RLDWow.exO7JSbuTgglikVTX/m5YrmgV8KREM58Lu"
         }
     ]
 }
