@@ -1,12 +1,3 @@
 {
-    "users": [
-        {
-            "email": "ぷにぷに",
-            "password": "mod"
-        },
-        {
-            "email": "tapi",
-            "password": "mod"
-        }
-    ]
+    "users": []
 }
