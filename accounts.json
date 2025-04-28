@@ -1,16 +1,8 @@
 {
     "users": [
         {
-            "email": "a",
-            "password": "a"
-        },
-        {
             "email": "tapidesu",
             "password": "tapi"
-        },
-        {
-            "email": "a",
-            "password": "d"
         }
     ]
 }
