@@ -3,6 +3,10 @@
         {
             "email": "a",
             "password": "a"
+        },
+        {
+            "email": "tapisandesu",
+            "password": "$2b$12$7J2KQIBI7HoHeirClmtMlezWRW4pr2SDkVGhH3eqMJA9qfUzSlt3m"
         }
     ]
 }
