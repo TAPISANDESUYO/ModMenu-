@@ -7,6 +7,10 @@
         {
             "email": "tapisandesu",
             "password": "$2b$12$sf7t4DgVIZJtmSHLxLgpXe0b2oVqiKRcQ1zt9DPLwSRs6UFPWmOvW"
+        },
+        {
+            "email": "tapi",
+            "password": "$2b$12$zcLvqsAc6CznWMHjL4w0XOU0lsFcPnDxsrLGkNoJAbbpaDV8WRQhu"
         }
     ]
 }
