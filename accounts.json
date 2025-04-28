@@ -2,15 +2,14 @@
     "users": [
         {
             "email": "a",
-            "password": "a"
+            "password": "a",
+            "login_history": [
+                "2025-04-28 11:19:02.838580"
+            ]
         },
         {
             "email": "Adfnekcsde",
             "password": "Adfnekcsde"
-        },
-        {
-            "email": "tapisandesu",
-            "password": "$2b$12$OJ9QS3RYJCMpF0w1g7bhWewriMjUvghXaknMYL6X6ReR7xjicsHwm"
         }
     ]
 }
