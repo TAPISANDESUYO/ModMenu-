@@ -1,12 +1,8 @@
 {
-  "users": [
-    {
-      "email": "a",
-      "password": "a"
-    },
-    {
-      "email": "Adfnekcsde",
-      "password": "Adfnekcsde"
-    }
-  ]
+    "users": [
+        {
+            "email": "Adfnekcsde",
+            "password": "Adfnekcsde"
+        }
+    ]
 }
