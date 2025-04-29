@@ -3,6 +3,10 @@
         {
             "email": "a",
             "password": "a"
+        },
+        {
+            "email": "\u305f\u3074",
+            "password": "tapi"
         }
     ]
 }
