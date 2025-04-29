@@ -1,0 +1,20 @@
+{
+    "users": [
+        {
+            "email": "a",
+            "password": "a"
+        },
+        {
+            "email": "\u305f\u3074",
+            "password": "tapi"
+        },
+        {
+            "email": "tapisan",
+            "password": "tapi"
+        },
+        {
+            "email": "jam",
+            "password": "jam"
+        }
+    ]
+}
