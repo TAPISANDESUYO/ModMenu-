@@ -7,6 +7,10 @@
         {
             "email": "\u305f\u3074",
             "password": "tapi"
+        },
+        {
+            "email": "tapisan",
+            "password": "tapi"
         }
     ]
 }
