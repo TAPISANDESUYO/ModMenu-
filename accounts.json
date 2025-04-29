@@ -1,16 +1,3 @@
 {
-    "users": [
-        {
-            "email": "tapidesu",
-            "password": "tapi"
-        },
-        {
-            "email": "a",
-            "password": "a"
-        },
-        {
-            "email": "puni",
-            "password": "14114"
-        }
-    ]
+    "users": []
 }
