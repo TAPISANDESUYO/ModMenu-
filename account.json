@@ -15,6 +15,10 @@
         {
             "email": "jam",
             "password": "jam"
+        },
+        {
+            "email": "mod",
+            "password": "tapi"
         }
     ]
 }
