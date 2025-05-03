@@ -1,3 +1,17 @@
+-- パスワードロック機能
+local PASSWORD = "tapi"  -- 任意のパスワードに変更してください
+
+function passwordCheck()
+    local input = gg.prompt({"パスワードを入力してください\n\nパスワード(使用権限)はDiscordで購入出来ます"}, nil, {"text"})
+    if input == nil or input[1] ~= PASSWORD then
+        gg.alert("❌ パスワードが間違っています!!!\n\nスクリプトを終了します。")
+        os.exit()
+    else
+        gg.alert("✅ 認証に成功しました\n\n📱現在のアプリバージョン〘4.141.0〙\n\n🈲2次配布が発覚した場合スクリプトを無効化します\n\n👤質問はDiscordまで")
+    end
+end
+
+passwordCheck()  -- 起動時に実行
 local config = {}
 local configKeys = {}
 local savedConfigs = {} -- サブメニューごとの状態を保存
