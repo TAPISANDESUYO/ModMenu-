@@ -1,10 +1,6 @@
 {
     "users": [
         {
-            "email": "abc",
-            "password": "abc"
-        },
-        {
             "email": "\u305f\u3074",
             "password": "tapi"
         },
