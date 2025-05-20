@@ -109,14 +109,14 @@ local subConfigs = {
             Type = "Toggle",
             Name = "無効化一括",
             lib = "libSGF.so",
-            Offset = {0x444C608,
+            Offset = {0x3A7C1EC,
                       0x496FEB8,--キャラクター無効
                       0x44E5744,--フレアイコン
-                      0x4562FD4,
-                      0x4580F34,
-                      0x493D89C,
-                      0x494695C,
-                      0x4947CE8}, -- 複数オフセット
+                      0x3A7C1EC,
+                      0x3B121F0,
+                      0x3B8CBA4,
+                      0x3F5AA5C,
+                      0x3F631D0}, -- 複数オフセット
             ONHex = {"C0 03 5F D6",
                       "C0 03 5F D6",--キャラクター無効
                       "C0 03 5F D6",
@@ -163,7 +163,7 @@ local subConfigs = {
             Type = "Toggle",
             Name = "即勝利",
             lib = "libSGF.so",
-            Offset = 0x345AFD8,
+            Offset = 0x345AF64,
             ONHex = "41 01 00 54",
             OFFHex = "40 01 00 54",
             value = false,
