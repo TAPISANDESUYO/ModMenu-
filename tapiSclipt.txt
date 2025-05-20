@@ -519,7 +519,7 @@ function Baisokuu(value)
     }
 
     if hexValues[value] then
-        setHexMemory("libSGF.so", 0x2922D44, hexValues[value])
+        setHexMemory("libSGF.so", 0x2922CE4, hexValues[value])
         gg.toast("倍速: " .. (value == 1 and "OFF" or value .. "倍速を設定しました。"))
     else
         gg.alert("エラー: 無効な倍速値です！ (入力値: " .. tostring(value) .. ")")
@@ -536,7 +536,7 @@ function Tienn(value)
     }
 
     if hexValues[value] then
-        setHexMemory("libSGF.so", 0x3081894, hexValues[value])
+        setHexMemory("libSGF.so", 0x3081850, hexValues[value])
         gg.toast("遅延: " .. (value == 1 and "OFF" or value .. "を設定しました。"))
     else
         gg.alert("エラー: 無効な遅延値です！ (入力値: " .. tostring(value) .. ")")
